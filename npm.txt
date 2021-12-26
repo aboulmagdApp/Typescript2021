@@ -1,0 +1,5 @@
+- npm i -g parcel-bundler =======> to comple TS on browser
+- parcel index.html   =====> to run TS file in browser
+- npm i -g json-server  ========> to create server look to json file 
+-- json-server -w <db.json> ======> to run the json server 
+- npm i axios
